@@ -12,9 +12,9 @@ A front-running bot scans pending transactions and pays a more significant gas f
 
 
 ## Prerequisities
-- Node and NPM https://nodejs.org/en/download/✅
-- Wallet with BNB for gas and token swap.✅
-- Support in windows 10 and above ✅
+- Node and NPM https://nodejs.org/en/download/ ✅
+- Wallet with BNB for gas and token swap. ✅
+- Support in windows 10 and above.  ✅
 
 
 ## Running BOT
