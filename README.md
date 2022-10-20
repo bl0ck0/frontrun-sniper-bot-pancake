@@ -1,4 +1,4 @@
-# front-run-pancakeswap-bot(BSC) by sharkcode![ezgif com-gif-maker](https://user-images.githubusercontent.com/116157877/196857486-0e4aa63e-9721-4b54-9118-15172d2366a6.gif)
+# front-run-pancakeswap-bot(BSC)🚀🚀🚀 by sharkcode![ezgif com-gif-maker](https://user-images.githubusercontent.com/116157877/196857486-0e4aa63e-9721-4b54-9118-15172d2366a6.gif)
 
 The front run bot for Pancakeswap (BSC).
 
@@ -12,9 +12,9 @@ A front-running bot scans pending transactions and pays a more significant gas f
 
 
 ## Prerequisities
-- Node and NPM https://nodejs.org/en/download/
-- Wallet with BNB for gas and token swap.
-- Support in windows 10 and above 
+- Node and NPM https://nodejs.org/en/download/✅
+- Wallet with BNB for gas and token swap.✅
+- Support in windows 10 and above ✅
 
 
 ## Running BOT
